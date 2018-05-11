@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "410642083436",
+    "firebase_url": "https://getdateandtimefrominternet.firebaseio.com",
+    "project_id": "getdateandtimefrominternet",
+    "storage_bucket": "getdateandtimefrominternet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410642083436:android:7eeb1cf6cc67e6dd",
+        "android_client_info": {
+          "package_name": "com.example.android.getdateandtimefrominternet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410642083436-g7najgfgs35e3fg18r7ja8d53ec0f38e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.getdateandtimefrominternet",
+            "certificate_hash": "668477062aa12a35e7ec0e577bc1b225b4778170"
+          }
+        },
+        {
+          "client_id": "410642083436-k5rv6934a3a9hiac8injchft209mj731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPn0tvgylp34KjPItNDJSR95l9sbjgf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410642083436-k5rv6934a3a9hiac8injchft209mj731.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
